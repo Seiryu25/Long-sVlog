@@ -1,5 +1,5 @@
 {
-  "name": "frontend",
+  "name": "long-vlogs",
   "homepage": "https://Seiryu25.github.io/Long-sVlog",
   "version": "0.1.0",
   "private": true,
@@ -37,3 +37,4 @@
     ]
   }
 }
+
